@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    //aggiunto questo commento
     int i;
     printf("Hello, World!\n");
 
